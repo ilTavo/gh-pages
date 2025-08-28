@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://iltavo.github.io/gh-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://iltavo.github.io/gh-pages/</loc>
+</url>
+<url>
+<loc>https://iltavo.github.io/gh-pages/home/</loc>
+<lastmod>2025-08-28T12:44:09+02:00</lastmod>
+<image:image>
+<image:loc>https://iltavo.github.io/gh-pages/media/posts/1/iron-man-marvel-superheroes-amoled-pitch-black-minimal-art-2560x1440-6293.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://iltavo.github.io/gh-pages/prova/</loc>
+<lastmod>2025-08-28T15:49:45+02:00</lastmod>
+<image:image>
+<image:loc>https://iltavo.github.io/gh-pages/media/posts/2/R.jfif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

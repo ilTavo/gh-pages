@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>valeriotavoletti.it</title>
+    <link href="https://iltavo.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://iltavo.github.io/gh-pages" />
+    <updated>2025-08-28T15:49:45+02:00</updated>
+    <author>
+        <name>Valerio Tavoletti</name>
+    </author>
+    <id>https://iltavo.github.io/gh-pages</id>
+
+    <entry>
+        <title>In Arrivo</title>
+        <author>
+            <name>Valerio Tavoletti</name>
+        </author>
+        <link href="https://iltavo.github.io/gh-pages/prova/index.html"/>
+        <id>https://iltavo.github.io/gh-pages/prova/index.html</id>
+        <media:content url="https://iltavo.github.io/gh-pages/media/posts/2/R.jfif" medium="image" />
+
+        <updated>2025-08-28T12:48:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iltavo.github.io/gh-pages/media/posts/2/R.jfif" alt="" />
+                    Mi sto preparando....
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://iltavo.github.io/gh-pages/media/posts/2/R.jfif" class="type:primaryImage" alt="" /></p>
+                <p>Mi sto preparando....</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

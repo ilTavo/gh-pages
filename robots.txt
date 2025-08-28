@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iltavo.github.io/gh-pages/sitemap.xml
